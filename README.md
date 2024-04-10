@@ -17,7 +17,8 @@ This project aims to streamline deployment and management activities on AWS usin
 - ArgoCD Application Deployment: Deployment of the Three-Tier application, including database, backend, frontend, and ingress components, using ArgoCD.
 - DNS Configuration: Configuration of DNS settings for application accessibility via custom subdomains.
 - Data Persistence: Implementation of persistent volume and persistent volume claims for database pods to ensure data persistence.
-#Conclusion and Monitoring
+  
+# Conclusion and Monitoring
 This project concludes with a summary of key achievements and ongoing monitoring of the EKS cluster’s performance using Grafana
 
 
