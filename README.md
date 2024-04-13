@@ -29,6 +29,10 @@ This project aims to streamline deployment and management activities on AWS usin
  ![Screenshot from 2024-04-09 01-07-50](https://github.com/jignyasamishra/3-Tier-Architecture/assets/85229187/71bf0669-8c30-422a-80ab-0d247ed843e0)
  ![Screenshot from 2024-04-09 01-07-36](https://github.com/jignyasamishra/3-Tier-Architecture/assets/85229187/6499b626-d55d-48dc-afd3-c7049f870e43)
  ![Screenshot from 2024-04-09 01-06-34](https://github.com/jignyasamishra/3-Tier-Architecture/assets/85229187/64056011-21f7-420c-829a-5e2eff2c13e5)
+ 
+ Logged into the simple quiz application
+ ![image](https://github.com/jignyasamishra/3-Tier-Architecture/assets/85229187/03ee20a0-219b-4d26-ba78-857fd695d0da)
+
 # Conclusion and Monitoring
 This project concludes with a summary of key achievements and ongoing monitoring of the EKS cluster’s performance using Grafana
 
