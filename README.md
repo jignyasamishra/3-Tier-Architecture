@@ -4,7 +4,7 @@ This project aims to streamline deployment and management activities on AWS usin
 ![gif2](https://github.com/cloudcore-hub/reactjs-quiz-app/assets/88560609/a0dfce93-3bde-45af-b82a-d7c9e2c47294)
 # Key Components
 - IAM User Setup: Creation of an IAM user with necessary permissions for AWS deployment and management.
-- Infrastructure as Code (IaC): Utilization of Terraform and AWS CLI for setting up the Jumphost server (EC2 instance) on AWS.
+- Infrastructure as Code (IaC): Utilization of Terraform and AWS CLI for setting up the Jumphost server (EC2 instance) on AWS..Used yet another Github workflow to automate it!(https://github.com/jignyasamishra/iac_code)
 - GitHub Actions Configuration: Configuration of essential GitHub Actions workflows, including Snyk, Docker, Sonarqube, Terraform, Kubectl, AWS CLI, and Trivy.
 - EKS Cluster Deployment: Deployment of an Amazon EKS cluster using eksctl commands.
 - Load Balancer Configuration: Configuration of AWS Application Load Balancer (ALB) for the EKS cluster.
@@ -18,6 +18,8 @@ This project aims to streamline deployment and management activities on AWS usin
 - ArgoCD Application Deployment: Deployment of the Three-Tier application, including database, backend, frontend, and ingress components, using ArgoCD.
 - DNS Configuration: Configuration of DNS settings for application accessibility via custom subdomains.
 - Data Persistence: Implementation of persistent volume and persistent volume claims for database pods to ensure data persistence.
+
+
   
 # Conclusion and Monitoring
 This project concludes with a summary of key achievements and ongoing monitoring of the EKS cluster’s performance using Grafana
